@@ -7,8 +7,8 @@ Lezione 03/11/2023
 - ```sed```
 - ```awk```
 - ```find```
-Ricordarsi anche comandi ```top```, ```htop``` e ```taskset```, utili per troubleshooting, per esempio, sui server
 
+Ricordarsi anche comandi ```top```, ```htop``` e ```taskset```, utili per troubleshooting, per esempio, sui server
 
 ### File system ```/sys/```
 È virtuale serve per vedere/cambiare impostazioni varie
